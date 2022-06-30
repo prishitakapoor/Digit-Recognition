@@ -1,4 +1,4 @@
-# Digit_Recognition_
+# Digit-Recognition
 This repository contains the jupytor notebook code for digit recognition using machine learning.
 This uses following libraries and plateforms tools.
 - Keras
